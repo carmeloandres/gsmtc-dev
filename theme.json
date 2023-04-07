@@ -40,7 +40,7 @@
 					"slug": "contrast"
 				},
 				{
-					"color": "#9DFF20",
+					"color": "#2f4f80",
 					"name": "Primary",
 					"slug": "primary"
 				},
@@ -697,7 +697,6 @@
 		"spacing": {
 			"blockGap": "1.5rem",
 			"padding": {
-				"top": "var(--wp--preset--spacing--40)",
 				"right": "var(--wp--preset--spacing--30)",
 				"bottom": "var(--wp--preset--spacing--40)",
 				"left": "var(--wp--preset--spacing--30)"
