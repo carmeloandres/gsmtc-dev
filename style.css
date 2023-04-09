@@ -13,13 +13,19 @@
 	Text Domain: gsmtcdev
 */
 .wp-block-navigation__responsive-container-close{
-	color : #2f4f80;
+	color :var(--wp--preset--color--primary);
 	margin: 10px 0;
 
 }
-.wp-block-navigation__responsive-container-content{
-	color : #2f4f80;
+.wp-block-navigation__responsive-container-open{
+	color :var(--wp--preset--color--primary);
 }
+
+.wp-block-navigation-item__label{
+	color :var(--wp--preset--color--primary);
+}
+
+
 .wp-block-navigation-link a:link, a:visited, a:active{
 	text-decoration: none;
 }
