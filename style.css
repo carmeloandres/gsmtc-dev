@@ -12,3 +12,20 @@
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	Text Domain: gsmtc-dev
 */
+.wp-block-navigation__responsive-container-close{
+	color :var(--wp--preset--color--primary);
+	margin: 10px 0;
+
+}
+.wp-block-navigation__responsive-container-open{
+	color :var(--wp--preset--color--primary);
+}
+
+.wp-block-navigation-item__label{
+	color :var(--wp--preset--color--primary);
+}
+
+
+.wp-block-navigation-link a:link, a:visited, a:active{
+	text-decoration: none;
+}

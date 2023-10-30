@@ -10,7 +10,6 @@ if ( ! defined( '_S_VERSION' ) ) {
 
 
 require_once(dirname(__FILE__).'/inc/class-gsmtc-developer.php');
-//require_once(dirname(__FILE__).'/inc/class-abc-restaurantes-api.php');
 
 
 $developer = new Gsmtc_Developer();
